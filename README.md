@@ -1,4 +1,4 @@
-# marketing_scrape_header_data
+# Bulk-Metadata-Scraper
 Ruby script that scrapes Header data + takes a screenshot of the page for OCR analysis
 
 The script uses Watir, Nokogiri and MetaInspector to capture all the required data; the code is fully documented, starting from bottom to the up.
